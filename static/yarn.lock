@@ -896,7 +896,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"@lezer/common@npm:^1.0.0, @lezer/common@npm:^1.0.2, @lezer/common@npm:^1.1.0":
+"@lezer/common@npm:^1.0.0, @lezer/common@npm:^1.0.2, @lezer/common@npm:^1.1.0, @lezer/common@npm:^1.1.2":
   version: 1.1.2
   resolution: "@lezer/common@npm:1.1.2"
   checksum: ed25e0b05ff073247266f2824d38159b93ab359be23c479ae0cf37131ec0d463a58dc2b78fb989ff9e29f87e0ef16291b2bd6243b082bb4116aed3e386cc069c
@@ -7237,6 +7237,7 @@ __metadata:
     "@codemirror/legacy-modes": "npm:^6.3.3"
     "@codemirror/state": "npm:^6.3.3"
     "@codemirror/view": "npm:^6.22.3"
+    "@lezer/common": "npm:^1.1.2"
     "@tailwindcss/typography": "npm:^0.5.10"
     "@trivago/prettier-plugin-sort-imports": "npm:^4.3.0"
     "@types/markdown-it": "npm:^13.0.7"
